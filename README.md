@@ -67,5 +67,5 @@ The following API endpoints are available:
 ## 📄 Acknowledgments
 
 - MongoDB for providing a free MongoDB instance
-- Express.js for providing a lightweight web framework for routing and API endpoints
+- Express.js for providing a lightweight web framework
 - EJS for providing a templating engine
